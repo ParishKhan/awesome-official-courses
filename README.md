@@ -34,6 +34,7 @@ In this repo you will find a list of online technology-related courses which hav
   
 ### Programming Languages
 * [Scala (Coursera)](https://www.coursera.org/specializations/scala). Course provided by ETFL (École Polytechnique Fédérale Lausanne), creators of the language.
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Wolfram](https://www.wolfram.com/wolfram-u/). Wolfram provides several courses on several topics with their language.
   * [Introduction to Calculus](https://www.wolfram.com/wolfram-u/introduction-to-calculus/)
   * [Introduction to Image Processing](https://www.wolfram.com/wolfram-u/introduction-to-image-processing/)
